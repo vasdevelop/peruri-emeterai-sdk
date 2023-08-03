@@ -1,0 +1,14 @@
+{
+  "name": "peruri-ematerai-bc-sdk",
+  "version": "1.0.0",
+  "description": "Layer Blockchain SDK For peruri emeterai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peruri-ematerai-sdk": "0.1.0-beta"
+  }
+}
